@@ -1,7 +1,9 @@
 /vendor
 /node_modules
 public/bower_components
+storage/*.sqlite
 .env
 .idea
-storage/*.sqlite
+.DS_Store
 Homestead.yaml
+Homestead.json
