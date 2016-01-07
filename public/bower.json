@@ -1,0 +1,23 @@
+{
+  "name": "spa-l5-ng",
+  "version": "0.0.0",
+  "homepage": "https://github.com/samalfa/spa-l5-ng",
+  "authors": [
+    "Sam Alfa <samalfa@samalfadev.com>"
+  ],
+  "description": "Learning Laravel 5 and Angular JS",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "angular-cookies": "~1.4.8"
+  }
+}
